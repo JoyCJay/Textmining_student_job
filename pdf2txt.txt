@@ -1,0 +1,163 @@
+                                                     Journal of Cleaner Production 174 (2018) 65e73
+
+                                                   Contents lists available at  ScienceDirect
+
+                                              Journal of Cleaner Production
+
+                                       journal homepage:        www.elsevier.com/locate/jclepro
+
+
+Life-cycle environmental and economic assessment of medical waste
+treatment
+
+                                                                                  *
+Jingmin Hong        a, Song Zhan       a, Zhaohe Yu       a, Jinglan Hong      b,  , Congcong Qi       b
+
+a School of Economics and Management, Liaoning Shihua University, No.1, West Dandong Road, Wanghua District, Fushun, Liaoning Province, 113001, PR
+China
+b Shandong Provincial Key Laboratory of Water Pollution Control and Resource Reuse, School of Environmental Science and Engineering, Shandong
+University, Shanda South Road 27, Jinan 250100, PR China
+
+article           info                        abstract
+
+Article history:                              The environmental and economic impacts of three medical waste disposal scenarios (i.e., pyrolysis, steam
+Received 21 July 2017                         sterilization, and chemical disinfection) were quantiﬁed via a cost-coupled life cycle assessment to
+Received in revised form                      quantify the effective technique for medical waste disposal. Results show that steam sterilization and
+14 October 2017
+                                              chemical disinfection scenarios exhibit the highest overall environmental and lowest economic impacts,
+Accepted 18 October 2017
+                                              respectively, because of the differences in energy consumption. The overall economic burden is attrib-
+Available online 21 October 2017
+                                              uted to the cost of investment, labor, electricity, and human health protection for each scenario, whereas
+                                              the environmental burden comes from   energy and chemical production processes. The contribution of
+Keywords:
+Medical waste                                 hydrogen chloride emission to the overall environmental burden is relatively low, although the direct
+                                                                                ﬁ
+Life cycle assessment                         hydrogen chloride emission is signi cantly higher when generated from  medical waste pyrolysis than
+Life cycle costing                            from municipal solid waste and industrial hazardous waste incineration. However, opposite results are
+Pyrolysis                                     observed for direct mercury emission. Effective measures to reduce the environmental burden include
+Chemical disinfection                         improving electricity and diesel consumption efﬁciency, reducing the use of chemicals (e.g., sodium
+Steam sterilization                           hydroxide, lime, and chlorine oxide), selecting clean energy, and providing medical waste incineration
+                                              with energy recovery. Similarly, effective measures to reduce the economic impact include optimizing
+                                              labor and investment costs and electricity consumption.
+                                                                                                           © 2017 Else                                                     Journal of Cleaner Production 174 (2018) 65e73
+
+                                                   Contents lists available at  ScienceDirect
+
+                                              Journal of Cleaner Production
+
+                                       journal homepage:        www.elsevier.com/locate/jclepro
+
+
+Life-cycle environmental and economic assessment of medical waste
+treatment
+
+                                                                                  *
+Jingmin Hong        a, Song Zhan       a, Zhaohe Yu       a, Jinglan Hong      b,  , Congcong Qi       b
+
+a School of Economics and Management, Liaoning Shihua University, No.1, West Dandong Road, Wanghua District, Fushun, Liaoning Province, 113001, PR
+China
+b Shandong Provincial Key Laboratory of Water Pollution Control and Resource Reuse, School of Environmental Science and Engineering, Shandong
+University, Shanda South Road 27, Jinan 250100, PR China
+
+article           info                        abstract
+
+Article history:                              The environmental and economic impacts of three medical waste disposal scenarios (i.e., pyrolysis, steam
+Received 21 July 2017                         sterilization, and chemical disinfection) were quantiﬁed via a cost-coupled life cycle assessment to
+Received in revised form                      quantify the effective technique for medical waste disposal. Results show that steam sterilization and
+14 October 2017
+                                              chemical disinfection scenarios exhibit the highest overall environmental and lowest economic impacts,
+Accepted 18 October 2017
+                                              respectively, because of the differences in energy consumption. The overall economic burden is attrib-
+Available online 21 October 2017
+                                              uted to the cost of investment, labor, electricity, and human health protection for each scenario, whereas
+                                              the environmental burden comes from   energy and chemical production processes. The contribution of
+Keywords:
+Medical waste                                 hydrogen chloride emission to the overall environmental burden is relatively low, although the direct
+                                                                                ﬁ
+Life cycle assessment                         hydrogen chloride emission is signi cantly higher when generated from  medical waste pyrolysis than
+Life cycle costing                            from municipal solid waste and industrial hazardous waste incineration. However, opposite results are
+Pyrolysis                                     observed for direct mercury emission. Effective measures to reduce the environmental burden include
+Chemical disinfection                         improving electricity and diesel consumption efﬁciency, reducing the use of chemicals (e.g., sodium
+Steam sterilization                           hydroxide, lime, and chlorine oxide), selecting clean energy, and providing medical waste incineration
+                                              with energy recovery. Similarly, effective measures to reduce the economic impact include optimizing
+                                              labor and investment costs and electricity consumption.
+                                                                                                           © 2017 Elsevier Ltd. All rights reserved.
+
+
+1. Introduction                                                               To date, MW    disposal is primarily implemented worldwide us-
+                                                                           ing landﬁll, microwave, chemical disinfection, incineration, shred-
+    Medical waste (MW) refers to various potentially infectious            ding, compacting, and     steam   sterilization technologies (PATH,
+materials that can pose potential health risks to the public (Hossain      2005; Windfeld     and   Brooks, 2015). However, these       methods
+et al., 2011). The improper management of MW      is common in China       cause several undesirable effects (PATH, 2005) as follows: 1) a va-
+due to the high cost of MW       disposal, although people are well        riety of toxic substances (e.g., pathogens and      radioactive sub-
+aware of the potential health risk. Approximately two-thirds of MW         stances) may penetrate the soil or underground water in landﬁll; 2)
+is currently disposed in unsafe ways (China Statistical Yearbook,          certain  volatile chemicals   and   large-mass   wastes   are  hardly
+2016;   MEPC, 2016). Therefore, decision      makers have     recently     disposed by microwave technology; 3) mercury compounds, vola-
+focused on building MW     disposal plants to meet the requirements        tile organic compounds, and large pathological waste are unsuit-
+for MW     management. In     this study, a cost-coupled    life cycle     able  for chemical disinfection     technology; 4) waste     remains
+assessment on commonly used MW            treatment technologies in        infectious for shredding and compacting technologies; and 5) sig-
+China were conducted to provide useful information regarding the           niﬁcant energy requirements are required for steam       sterilization.
+establishment, reconstruction, or technological transformation of          The advantages of the MW       disposal technologies vis-a-vis  their
+MW    disposal plants.                                                     disadvantages have been strongly debated on during the last de-
+                                                                           cades. Accordingly, a systematic approach is required to quantify
+                                                                           the effective technique for MW    disposal.
+                                                                              Life cycle assessment (LCA)-coupled life cycle costing (LCC), a
+  * Corresponding author.
+    E-mail address: hongjing@sdu.edu.cn (J. Hong).                         systematic    and    effective   approach    for   quantifying    the
+
+https://doi.org/10.1016/j.jclepro.2017.10.206
+0959-6526/© 2017 Elsevier Ltd. All rights reserved.
+66                                             J. Hong et al. / Journal of Cleaner Production 174 (2018) 65e73
+
+Table 1                                                                   background data, energy type, technology, plant size, and man-
+Characteristics of the medical waste disposal plant and medical waste considered in agement attention). Therefore, an LCA-coupled LCC on   three
+the study.
+                                                                          commonly used MW       treatment technologies in China (i.e., pyrol-
+                                                    Unit   Value          ysis, chemical disinfection, and steam sterilization) based on recent
+ Composition               Plastics                 %      45             and actual company monitoring data were conducted in this study
+                           Wastepaper & cotton yarn %      13             to address the abovementioned requirements. The key factors and
+                           Glass                    %      10             improvements contributing to the overall environmental and eco-
+                           Others (needles, surgical %12                  nomic effects from    each scenario were identiﬁed. Monte-Carlo
+                           waste, drugs etc)
+                           Water content            %      20             simulation was used to decide on the environmentally friendly
+ Temperature               Steam sterilization      vier Ltd. All rights reserved.
+
+
+1. Introduction                                                               To date, MW    disposal is primarily implemented worldwide us-
+                                                                           ing landﬁll, microwave, chemical disinfection, incineration, shred-
+    Medical waste (MW) refers to various potentially infectious            ding, compacting, and     steam   sterilization technologies (PATH,
+materials that can pose potential health risks to the public (Hossain      2005; Windfeld     and   Brooks, 2015). However, these       methods
+et al., 2011). The improper management of MW      is common in China       cause several undesirable effects (PATH, 2005) as follows: 1) a va-
+due to the high cost of MW       disposal, although people are well        riety of toxic substances (e.g., pathogens and      radioactive sub-
+aware of the potential health risk. Approximately two-thirds of MW         stances) may penetrate the soil or underground water in landﬁll; 2)
+is currently disposed in unsafe ways (China Statistical Yearbook,          certain  volatile chemicals   and   large-mass   wastes   are  hardly
+2016;   MEPC, 2016). Therefore, decision      makers have     recently     disposed by microwave technology; 3) mercury compounds, vola-
+focused on building MW     disposal plants to meet the requirements        tile organic compounds, and large pathological waste are unsuit-
+for MW     management. In     this study, a cost-coupled    life cycle     able  for chemical disinfection     technology; 4) waste     remains
+assessment on commonly used MW            treatment technologies in        infectious for shredding and compacting technologies; and 5) sig-
+China were conducted to provide useful information regarding the           niﬁcant energy requirements are required for steam       sterilization.
+establishment, reconstruction, or technological transformation of          The advantages of the MW       disposal technologies vis-a-vis  their
+MW    disposal plants.                                                     disadvantages have been strongly debated on during the last de-
+                                                                           cades. Accordingly, a systematic approach is required to quantify
+                                                                           the effective technique for MW    disposal.
+                                                                              Life cycle assessment (LCA)-coupled life cycle costing (LCC), a
+  * Corresponding author.
+    E-mail address: hongjing@sdu.edu.cn (J. Hong).                         systematic    and    effective   approach    for   quantifying    the
+
+https://doi.org/10.1016/j.jclepro.2017.10.206
+0959-6526/© 2017 Elsevier Ltd. All rights reserved.
+66                                             J. Hong et al. / Journal of Cleaner Production 174 (2018) 65e73
+
+Table 1                                                                   background data, energy type, technology, plant size, and man-
+Characteristics of the medical waste disposal plant and medical waste considered in agement attention). Therefore, an LCA-coupled LCC on   three
+the study.
+                                                                          commonly used MW       treatment technologies in China (i.e., pyrol-
+                                                    Unit   Value          ysis, chemical disinfection, and steam sterilization) based on recent
+ Composition               Plastics                 %      45             and actual company monitoring data were conducted in this study
+                           Wastepaper & cotton yarn %      13             to address the abovementioned requirements. The key factors and
+                           Glass                    %      10             improvements contributing to the overall environmental and eco-
+                           Others (needles, surgical %12                  nomic effects from    each scenario were identiﬁed. Monte-Carlo
+                           waste, drugs etc)
+                           Water content            %      20             simulation was used to decide on the environmentally friendly
+ Temperature               Steam sterilization      
